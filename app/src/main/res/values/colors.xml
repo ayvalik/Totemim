@@ -7,4 +7,8 @@
   <color name="teal_700">#FF018786</color>
   <color name="black">#FF000000</color>
   <color name="white">#FFFFFFFF</color>
+  <color name="barcode_background">#99000000</color>
+  <color name="barcode_stroke">#ffffff</color>
+  <color name="colorAccent">#333333</color>
+  <color name="color18bfcc">#18bfcc</color>
 </resources>
